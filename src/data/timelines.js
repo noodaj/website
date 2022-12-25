@@ -11,7 +11,7 @@ let Timelines = [
 		Name: "Started web development",
 		Description:
 			`My introduction to web development started in the winter of 2021.
-            I was always interested in web developement and being able to create web apps. I took the initiative and found a website that taught me the 
+            I was always interested in web development and being able to create web apps. I took the initiative and found a website that taught me the 
             basics of web developing. I am still a novice but am slowly learning how to build web apps.`
 	},
     {

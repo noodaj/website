@@ -1,6 +1,6 @@
 import React from "react";
 
-function TimeLineItem({ name, year, description, enddate }) {
+function TimeLineItem({ name, year, description, enddate}) {
 	return (
 		<>
 			<div className="timeline-item">
